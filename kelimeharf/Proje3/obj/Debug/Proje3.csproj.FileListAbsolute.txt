@@ -1,7 +1,0 @@
-C:\Users\faruk\source\repos\Proje3\Proje3\bin\Debug\Proje3.exe.config
-C:\Users\faruk\source\repos\Proje3\Proje3\bin\Debug\Proje3.exe
-C:\Users\faruk\source\repos\Proje3\Proje3\bin\Debug\Proje3.pdb
-C:\Users\faruk\source\repos\Proje3\Proje3\obj\Debug\Proje3.csprojAssemblyReference.cache
-C:\Users\faruk\source\repos\Proje3\Proje3\obj\Debug\Proje3.csproj.CoreCompileInputs.cache
-C:\Users\faruk\source\repos\Proje3\Proje3\obj\Debug\Proje3.exe
-C:\Users\faruk\source\repos\Proje3\Proje3\obj\Debug\Proje3.pdb
